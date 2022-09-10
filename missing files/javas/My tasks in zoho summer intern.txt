@@ -1,0 +1,31 @@
+1. Java Basics and Problem solving include
+     * matrix rotation
+     * checking for palindrome
+     * reversing the number without converting into string 
+
+2. Java File handling concepts include
+     * File creation and folder creations
+     * File reading and writing (Using different BufferClasses , InputStream and OutputStream Classes)
+
+3. Maven dependencies like
+     * OK-Http3 Client
+       1. finding IP address, Headers, content Types, Response Code of various domain names.
+       2. finding IP versions, Http versions and TLS versions from the given url. 
+       3. Downloading image from the given URL.
+       4. Building a UI design for exploring these tools.
+       5. Connecting the UI page with java program using JSP pages.
+       6. How to get the response from the Http server and display using JSON formats.
+
+4. TCP- Clients and Servers conections 
+     * Time latencies
+     * Sending and receiving data packets
+
+5. Image processing Libraries     
+     * Image Copying. 
+     * Cropping the Image into different sizes.
+     * Reducing the resolution of the image based on user needs.
+     * Convert the images from one format to another format like (PNG, JPG, JPEG).
+
+6.Video processing Libraries
+     * Compressing the videos into different sizes and frames using IVCompressor library.  
+     * Reducing the quality of the audio and video to different frequecies.  
